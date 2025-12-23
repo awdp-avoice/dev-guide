@@ -55,5 +55,5 @@ _Last updated: 2025-12-23_
 - Translate all Chinese content to English, and ideally more languages. Exactly how to do this requires some discovery and discussion. There are a few axes of variations in the potential approach:
   - Do we only translate to English or also other languages? Which languages?
   - Do we commit the translated content in the repo? Or do we do something like automatic whole-page translations in the browser using Google Translation service?
-  - If we commit the translated content in the repo, we probably want to use LLMs to do the translations, but which LLM, and how to feed the content? Do we copy-paste manually or use an API? How much will it cost? How do deal with the deeply nested content in the WeChat article HTML files?
+  - If we commit the translated content in the repo, we probably want to use LLMs to do the translations, but which LLM, and how to feed the content? Do we copy-paste manually or use an API? How much will it cost? How to deal with the deeply nested content in the WeChat article HTML files?
 - Migrate to Astro, ideally with new designs from "kylan" (this is his/her WeChat name).
